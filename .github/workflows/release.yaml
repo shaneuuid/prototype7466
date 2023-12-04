@@ -1,4 +1,4 @@
-name: Publish
+name: Release
 on:
   workflow_run:
     workflows: ['Main']
@@ -11,7 +11,7 @@ on:
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
-  publish:
+  release:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
     runs-on: ubuntu-latest
