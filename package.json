@@ -6,7 +6,8 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsup index.ts --format=esm --target=node18 --clean --config=tsconfig.json --dts"
+    "build": "tsup index.ts --format=esm --target=node18 --clean --config=tsconfig.json --dts",
+    "publish": "npm run build && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
