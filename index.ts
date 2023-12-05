@@ -17,3 +17,5 @@ export function frosty() {}
 export function charlieBrown() {}
 
 export function tree() {}
+
+export function cupcake() {}
