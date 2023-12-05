@@ -9,3 +9,5 @@ export function santa() {}
 export function elf() {}
 
 export function cat() {}
+
+export function reindeer() {}
