@@ -7,3 +7,5 @@ export function anothertest() {}
 export function santa() {}
 
 export function elf() {}
+
+export function cat() {}
