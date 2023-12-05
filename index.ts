@@ -13,3 +13,5 @@ export function cat() {}
 export function reindeer() {}
 
 export function frosty() {}
+
+export function charlieBrown() {}
