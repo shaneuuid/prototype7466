@@ -15,3 +15,5 @@ export function reindeer() {}
 export function frosty() {}
 
 export function charlieBrown() {}
+
+export function tree() {}
