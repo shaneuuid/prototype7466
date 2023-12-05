@@ -1,5 +1,12 @@
 # prototype7466
 
+## 0.0.6
+
+### Patch Changes
+
+- f946053: Add tree
+- 87c23ef: Add cupcake
+
 ## 0.0.5
 
 ### Patch Changes
