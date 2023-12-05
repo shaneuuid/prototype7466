@@ -1,5 +1,11 @@
 # prototype7466
 
+## 0.0.5
+
+### Patch Changes
+
+- e3063a8: Add frosty
+
 ## 0.0.4
 
 ### Patch Changes
