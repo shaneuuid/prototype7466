@@ -11,3 +11,5 @@ export function elf() {}
 export function cat() {}
 
 export function reindeer() {}
+
+export function frosty() {}
