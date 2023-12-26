@@ -19,3 +19,5 @@ export function charlieBrown() {}
 export function tree() {}
 
 export function cupcake() {}
+
+export function featureZ() {}
