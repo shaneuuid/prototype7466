@@ -20,4 +20,6 @@ export function tree() {}
 
 export function cupcake() {}
 
-export function featureZ() {}
+export function featureZ() {
+  console.log('featureZ');
+}
