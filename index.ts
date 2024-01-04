@@ -27,3 +27,7 @@ export function featureZ() {
 export function featureY() {
   console.log('feature Y');
 }
+
+export function featureA() {
+  console.log('feature A');
+}
