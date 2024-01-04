@@ -31,3 +31,7 @@ export function featureY() {
 export function featureA() {
   console.log('feature A');
 }
+
+export function tesdt() {
+  console.log('oops');
+}
