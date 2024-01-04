@@ -28,10 +28,6 @@ export function featureY() {
   console.log('feature Y');
 }
 
-export function featureA() {
-  console.log('feature A');
-}
-
 export function tesdt() {
   console.log('oops');
 }
