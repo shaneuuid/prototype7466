@@ -33,5 +33,5 @@ export function featureA() {
 }
 
 export function tesdt() {
-  console.log('test');
+  console.log('oops');
 }
