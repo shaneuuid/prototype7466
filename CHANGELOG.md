@@ -1,5 +1,11 @@
 # prototype7466
 
+## 0.0.7
+
+### Patch Changes
+
+- 591e8ad: Add feature z
+
 ## 0.0.6
 
 ### Patch Changes
