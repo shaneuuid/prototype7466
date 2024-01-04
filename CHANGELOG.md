@@ -1,5 +1,16 @@
 # prototype7466
 
+## 0.1.0
+
+### Minor Changes
+
+- d4673be: Delete feature A
+
+### Patch Changes
+
+- 9ca5a94: Added a test feature
+- bfaef1d: add feature c
+
 ## 0.0.7
 
 ### Patch Changes
