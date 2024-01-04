@@ -23,3 +23,7 @@ export function cupcake() {}
 export function featureZ() {
   console.log('featureZ');
 }
+
+export function featureY() {
+  console.log('feature Y');
+}
