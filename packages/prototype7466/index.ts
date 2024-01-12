@@ -35,3 +35,7 @@ export function tesdt() {
 export function featureC() {
   console.log('feature c');
 }
+
+export function waffles() {
+  console.log('waffles');
+}
