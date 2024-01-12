@@ -1,0 +1,12 @@
+{
+  "name": "prototype7466",
+  "license": "MIT",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup index.ts --format=esm --target=node18 --clean --config=tsconfig.json --dts",
+    "release": "npm run build && changeset publish"
+  }
+}
