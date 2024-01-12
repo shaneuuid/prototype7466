@@ -1,0 +1,49 @@
+{
+  "nodes": {
+    "prototype7466": {
+      "name": "prototype7466",
+      "type": "lib",
+      "data": {
+        "root": "packages/prototype7466",
+        "sourceRoot": "packages/prototype7466",
+        "name": "prototype7466",
+        "projectType": "library",
+        "targets": {
+          "build": {
+            "cache": true,
+            "dependsOn": [
+              "^build"
+            ],
+            "executor": "nx:run-script",
+            "options": {
+              "script": "build"
+            },
+            "configurations": {}
+          },
+          "release": {
+            "executor": "nx:run-script",
+            "options": {
+              "script": "release"
+            },
+            "configurations": {}
+          },
+          "nx-release-publish": {
+            "dependsOn": [
+              "^nx-release-publish"
+            ],
+            "executor": "@nx/js:release-publish",
+            "options": {},
+            "configurations": {}
+          }
+        },
+        "implicitDependencies": [],
+        "tags": []
+      }
+    }
+  },
+  "externalNodes": {},
+  "dependencies": {
+    "prototype7466": []
+  },
+  "version": "6.0"
+}
