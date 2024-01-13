@@ -39,3 +39,7 @@ export function featureC() {
 export function waffles() {
   console.log('waffles');
 }
+
+export function tesdt() {
+  console.log('oops');
+}
