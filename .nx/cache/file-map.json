@@ -16,49 +16,15 @@
     }
   },
   "fileMap": {
-    "nonProjectFiles": [
-      {
-        "file": "tsconfig.json",
-        "hash": "16541421234848312371"
-      },
-      {
-        "file": "nx.json",
-        "hash": "5728175905281162705"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "16448246216400646938"
-      },
-      {
-        "file": "LICENSE",
-        "hash": "5953745443677927837"
-      },
-      {
-        "file": ".github/workflows/cicd.yaml",
-        "hash": "15363773986899717139"
-      },
-      {
-        "file": ".changeset/config.json",
-        "hash": "8502924383422815736"
-      },
-      {
-        "file": "package.json",
-        "hash": "14652762056076252738"
-      },
-      {
-        "file": "CHANGELOG.md",
-        "hash": "7617867895614890879"
-      },
-      {
-        "file": ".changeset/README.md",
-        "hash": "4888845876018830777"
-      }
-    ],
     "projectFileMap": {
       "prototype7466": [
         {
+          "file": "packages/prototype7466/CHANGELOG.md",
+          "hash": "3472613014659240488"
+        },
+        {
           "file": "packages/prototype7466/index.ts",
-          "hash": "18012841081948473923"
+          "hash": "16270943946522759291"
         },
         {
           "file": "packages/prototype7466/package-lock.json",
@@ -66,9 +32,55 @@
         },
         {
           "file": "packages/prototype7466/package.json",
-          "hash": "15994627018156239085"
+          "hash": "6403155011716643743"
+        },
+        {
+          "file": "packages/prototype7466/tsconfig.json",
+          "hash": "16541421234848312371"
         }
       ]
-    }
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".changeset/README.md",
+        "hash": "4888845876018830777"
+      },
+      {
+        "file": ".changeset/config.json",
+        "hash": "8502924383422815736"
+      },
+      {
+        "file": ".github/workflows/cicd.yaml",
+        "hash": "11368319092196079379"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16448246216400646938"
+      },
+      {
+        "file": "CHANGELOG.md",
+        "hash": "7617867895614890879"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "5953745443677927837"
+      },
+      {
+        "file": "README.md",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "nx.json",
+        "hash": "5728175905281162705"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "2430269107195385122"
+      },
+      {
+        "file": "package.json",
+        "hash": "14078197981847979880"
+      }
+    ]
   }
 }

@@ -6,8 +6,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "nx run-many -t build",
-    "release": "npm run build && changeset publish"
+    "build": "nx run-many -t build"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
