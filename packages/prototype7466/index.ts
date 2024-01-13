@@ -47,5 +47,5 @@ export function waffles() {
 
 export function pancakes() {
   //@ts-ignore
-  console.log('pancakes');
+  console.log('pancakes!');
 }
